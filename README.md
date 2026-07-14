@@ -20,7 +20,7 @@ The landing page allows users to browse rental listings or list their own proper
 ## Email Notification
 
 <p align="center">
-  <img src="./screenshots/email-notification.png" alt="Interest Request Email" width="900"/>
+  <img src="./screenshots/email_notification.png" alt="Interest Request Email" width="900"/>
 </p>
 
 When a tenant expresses interest in a listing, the owner automatically receives an email notification with the listing details and an **Accept Request** button to initiate communication.
