@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, sans-serif;
+  background: #f7f7fb;
+  color: #111827;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+main {
+  padding: 2rem;
+}
+
+nav {
+  padding: 1rem;
+  background: #ac70265b;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.logo-heading {
+  font-family: 'Chewy';font-size: 30px;
+}

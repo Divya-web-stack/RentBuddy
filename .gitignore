@@ -1,0 +1,69 @@
+# ==========================
+# Python Virtual Environment
+# ==========================
+.venv/
+venv/
+
+# ==========================
+# Frontend (React + Vite)
+# ==========================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+
+# Frontend environment files
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# ==========================
+# Backend (FastAPI)
+# ==========================
+backend/__pycache__/
+backend/**/*.py[cod]
+backend/*.db
+backend/*.sqlite3
+
+# Backend environment files
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# ==========================
+# Python
+# ==========================
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# ==========================
+# Logs
+# ==========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# Operating System Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Misc
+# ==========================
+*.swp
+*.swo
+
+
+

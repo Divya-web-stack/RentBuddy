@@ -10,7 +10,7 @@ RentBuddy is an AI-powered tenant/owner rental matching platform that helps tena
 ## Home Page
 
 <p align="center">
-  <img src="screenshots/home-page.png" alt="RentBuddy Home Page" width="900"/>
+  <img src="./screenshots/home_page.png" alt="RentBuddy Home Page" width="900"/>
 </p>
 
 The landing page allows users to browse rental listings or list their own property with a clean and intuitive interface.
@@ -20,7 +20,7 @@ The landing page allows users to browse rental listings or list their own proper
 ## Email Notification
 
 <p align="center">
-  <img src="screenshots/email-notification.png" alt="Interest Request Email" width="900"/>
+  <img src="./screenshots/email-notification.png" alt="Interest Request Email" width="900"/>
 </p>
 
 When a tenant expresses interest in a listing, the owner automatically receives an email notification with the listing details and an **Accept Request** button to initiate communication.
