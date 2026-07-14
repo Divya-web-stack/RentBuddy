@@ -51,6 +51,12 @@ When a tenant expresses interest in a listing, the owner automatically receives 
 
 ---
 
+## User Flow Digram
+
+<p align="center">
+  <img src="./screenshots/user_flow.png" alt="User Flow Diagram" width="900"/>
+</p>
+
 ## Architecture
 
 ### Frontend
